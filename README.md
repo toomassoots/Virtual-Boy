@@ -1,2 +1,2 @@
-# Virtual-Boy
+Virtual-Boy
 Virtual-Boy
